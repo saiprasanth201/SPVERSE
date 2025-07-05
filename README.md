@@ -13,7 +13,7 @@ SPVERSE is a modern, responsive landing page built using **React**, **Vite**, an
 - 📱 Mobile-first and fully responsive  
 - 🌓 Ready for dark mode (optional)
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stacks
 
 - **Frontend:** React.js, Tailwind CSS, Vite  
 - **Animations:** Framer Motion  
